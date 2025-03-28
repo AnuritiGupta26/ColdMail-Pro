@@ -1,3 +1,4 @@
+pysqlite3-binary
 langchain==0.3.21
 langchain-community==0.3.20
 langchain-groq===0.3.1
