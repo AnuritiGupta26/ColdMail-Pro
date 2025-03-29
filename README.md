@@ -54,9 +54,11 @@ An AI-powered tool designed to streamline the process of generating cold emails 
   [Your Name]
   ```
 
-### Contributing
+### Deployment 
 
-If you'd like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request. Please make sure to follow the coding style and add tests where necessary.
+Deployed Link : https://coldmail-pro-production-b581.up.railway.app/ 
+
+It can be deployed on strealit, as an alternative can deploy on railway. 
 
 ### License
 
