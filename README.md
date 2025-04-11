@@ -64,6 +64,4 @@ It can be deployed on strealit, as an alternative can deploy on railway.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-You can customize this further based on your specific setup or any additional features!
